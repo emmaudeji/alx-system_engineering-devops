@@ -1,22 +1,15 @@
-# Displays numbers from 1 to 100.
-# Displays FizzBuzz when the number is a multiple of 3 and 5
-# Displays Fizz when the number is multiple of 3
-# Displays Buzz when the number is a multiple of 5
-# Otherwise, displays the number
+#!/usr/bin/env bash
+# FizzBuzz!!
 
-
-for num in {1..100}
+for i in $(seq 1 100);
 do
-    if [ $((num % 3)) -eq 0 ] && [ $((num % 5)) -eq 0 ]
-    then
-        echo "FIzzBuzz"
-    elif [ $((num % 3)) -eq 0 ]
-    then
-        echo "Fizz"
-    elif [ $((i % 5)) -eq 0 ]
-    then
-        echo "Buzz"
+    if [ $((i % 15)) -eq 0 ]; then
+	echo "FizzBuzz"
+    elif [ $((i % 3)) -eq 0 ]; then
+	echo "Fizz"
+    elif [ $((i % 5)) -eq 0 ]; then
+	echo "Buzz"
     else
-        echo "$num"
+	echo "$i"
     fi
 done
