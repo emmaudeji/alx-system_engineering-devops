@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """
- Script that prints the titles of the first 10 hot posts listed for a given subredditn
+ Script that prints the titles of the first 10 hot posts listed for a given subreddit
+ prints None if not a valid subreddit.
 """
 
 import requests
