@@ -1,25 +1,3 @@
--   [](https://alx-intranet.hbtn.io/dashboards/my_planning)
--   [](https://alx-intranet.hbtn.io/projects/current)
--   [](https://alx-intranet.hbtn.io/users/my_reports)
--   [](https://alx-intranet.hbtn.io/corrections/to_review)
--   [](https://alx-intranet.hbtn.io/dashboards/my_current_evaluation_quizzes)
-
-* * * * *
-
--   [](https://alx-intranet.hbtn.io/dashboards/my_curriculums)
--   [](https://alx-intranet.hbtn.io/concepts)
--   [](https://alx-intranet.hbtn.io/dashboards/video_rooms)
--   [](https://alx-intranet.hbtn.io/servers)
--   [](https://alx-intranet.hbtn.io/user_containers/current)
--   [](https://alx-intranet.hbtn.io/dashboards/my_tools)
-
-* * * * *
-
--   [](https://alx-intranet.hbtn.io/users/peers)
--   [](https://alx-intranet.hbtn.io/dashboards/my_captain_log)
--   [](https://alx-students.slack.com/)
-
-    [](https://alx-intranet.hbtn.io/users/my_profile)
 
 0x16. API advanced
 ==================
