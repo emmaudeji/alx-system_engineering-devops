@@ -6,18 +6,11 @@
 -   Weight: 1
 -   Ongoing project - started 
 
-    Apr 26, 2022
+    Apr 26, 2022, must end by Apr 27, 2022
 
-    , must end by 
-
-    Apr 27, 2022
-
-     - you're done with 0% of tasks.
 -   Checker was released at 
 
     Apr 26, 2022 10:00 AM
-
--   An auto review will be launched at the deadline
 
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/314/WIxXad8.png)
 
