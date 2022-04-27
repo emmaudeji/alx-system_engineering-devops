@@ -23,8 +23,11 @@ Resources
 -   [What is application monitoring](https://alx-intranet.hbtn.io/rltoken/z9jsikINjrsUo2QY5_Xz8g "What is application monitoring")
 -   [System monitoring by Google](https://alx-intranet.hbtn.io/rltoken/_8KIbIUNzMgKi_LiGMBWAw "System monitoring by Google")
 -   [Nginx logging and monitoring](https://alx-intranet.hbtn.io/rltoken/V3GsrDcMHPdgrizShj4RCg "Nginx logging and monitoring")
--   [Monitoring](https://alx-intranet.hbtn.io/concepts/13)
--   [Server](https://alx-intranet.hbtn.io/concepts/67)
+
+Alx Concepts
+---------
+-   [Monitoring](alx_concepts/Mornitoring.md)
+-   [Server](alx_concepts/servers.md)
 
 Learning Objectives
 -------------------
