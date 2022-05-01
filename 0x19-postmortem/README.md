@@ -1,7 +1,7 @@
 # 0x19-postmortem
 
 ------------
-# OUTAGE ON HOLBERTON SERVER
+# Outage on Holberton website
 
 ### Issue Summary
 On  April 24th, 2022 the Holberton site was noted to return 500 Internal Server Error's  on all GET request made on the platform routes, when the expected response was an HTML file defining a simple Holberton site. 75% of the users were affected. The root was an outage that occurred on the Master server, (Web-A) running on Nginx server.
