@@ -1,5 +1,5 @@
 
-<img src=./image.png>
+<img src=./image.png width=50% height=50%>
 
 ------------
 # Report on the Outage of Holberton website
