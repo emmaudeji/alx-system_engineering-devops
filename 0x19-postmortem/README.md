@@ -1,4 +1,4 @@
-[](../image.png)
+(../image.png)
 
 ------------
 # Report on the Outage of Holberton website
