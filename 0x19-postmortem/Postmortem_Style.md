@@ -1,10 +1,6 @@
 #20 - How to write an Incident Report / Postmortem
 --------------------------------------------------
 
-Play Video
-
-#### Links, Code, and Transcript
-
 -   [Google API infrastructure outage incident report](http://googledevelopers.blogspot.ca/2013/05/google-api-infrastructure-outage_3.html)
 
 * * * * *
