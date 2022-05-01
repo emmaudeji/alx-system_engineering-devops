@@ -1,4 +1,5 @@
-(../image.png)
+
+<img src=./image.png>
 
 ------------
 # Report on the Outage of Holberton website
