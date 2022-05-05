@@ -30,9 +30,8 @@ $ gem install puppet-lint -v 2.1.1
 ```
 
 Tasks
------
 
-```
+-------------------
 * **0. Sky is the limit, let's bring that limit higher**
   * [0-the_sky_is_the_limit_not.pp](./0-the_sky_is_the_limit_not.pp): Puppet manifest
   that increases the amount of traffic an Apache web server can effectively handle.
@@ -41,8 +40,8 @@ Tasks
   * [1-user_limit.pp](./1-user_limit.pp): Puppet manifest that changes the operating system
   configuration so that it is possible to login with the user `holberton` and open a file
   without error.
-  
-```
+-------------------
+
 ##### \0. Sky is the limit, let's bring that limit higher
 
 mandatory
