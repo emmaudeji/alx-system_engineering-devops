@@ -1,7 +1,7 @@
 0x1A. Application server
 ========================
 
-### Project to set up application server on my web-servers and deploy AirBnB_clone project on the server.
+### Project to set up application server and deploy AirBnB_clone project on the server.
 -----------------
 
 *For this project, students are expected to look at these concepts:*
